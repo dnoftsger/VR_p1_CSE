@@ -1,0 +1,5 @@
+P! Gold Creation: Portal Gun
+	The player may teleport to another location in which there are two guns, one that shoots a blue portal, and one that shoots an orange portal.
+	The player may then teleport from the blue portal location to the orange portal location and vice versa.
+	The player may move the portal locations at anytime by shooting the guns at either a wall or a floor, etc.
+	There exists another button in the portal gun location to teleport back to the main building when they want to.
